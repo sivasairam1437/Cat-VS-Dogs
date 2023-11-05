@@ -38,10 +38,4 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=8080)
 
 
-
-<<<<<<< HEAD
-## AUTHOR : SIVA SAI
-=======
-# Author: Bappy
->>>>>>> dee84e3d3187ccc3048e0ac46489f79d968d5b20
-
+## AUTHOR : SIVA
